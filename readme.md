@@ -21,9 +21,16 @@
 변수명 D_Q6_2  건설중단->건설재개
 ```
 
-- 위 참고사항은 데이터화된 xls에 반영되어 있음
+- 위 참고사항은 반영되어 있음
 
 ## 변수 데이터화 작업 방식
 
-- pdf -> txt 로 변형
-- Powered by `Human Intelligence` and `Drink`
+- pdf -> txt 는 Computer
+- txt -> xls 는 Powered by `Human Intelligence` and `Drink`
+
+
+## 차후 목표
+
+1. xls를 json 형식으로 변경
+2. 기존 1,2,3,4차 데이터를 json 형식으로 변경
+3. 어떻게 시각화해서 볼지 고민
