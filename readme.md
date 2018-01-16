@@ -6,7 +6,7 @@
   - [원본자료 Url](http://npp.jiniworks.com/npp/join/output.do?mode=view&articleNo=9054&article.offset=0&articleLimit=10)
   - [github에 백업한 원본자료](data/origin/)
 - 변환
-  - [데이터화한 xls](data/converted_variable.xlsx) 
+  - [xls](data/converted_variable.xlsx) 
   - [json](data/converted_variable.json)
   - [csv](data/converted_variable.csv)
 
