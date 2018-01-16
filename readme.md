@@ -25,10 +25,11 @@
 
 - 위 참고사항은 반영되어 있음
 
-## 변수 데이터화 작업 방식
+## 설문 변수 데이터화 작업 방식
 
-- pdf -> txt 는 Computer
-- txt -> xls 는 Powered by `Human Intelligence` and `Drink`
+- pdf -> txt : `notebook\exctract_from_pdf.cmd`
+- txt -> xls : Powered by `Human Intelligence` and `Drink`
+- xls -> json, csv : `jupyter notebook` \ `variable_xls_to_json.ipynb`
 
 
 ## 차후 목표
