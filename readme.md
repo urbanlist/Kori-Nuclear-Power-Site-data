@@ -2,15 +2,13 @@
 
 ## 변수명, 변수, 설문문항 데이터화
 
-[원본자료 Url](http://npp.jiniworks.com/npp/join/output.do?mode=view&articleNo=9054&article.offset=0&articleLimit=10)
-
-[github에 백업한 원본자료](data/origin/)
-
-[데이터화한 xls](data/converted_variable.xlsx)
-
-[json](data/converted_variable.json)
-
-[csv](data/converted_variable.csv)
+- 원본
+  - [원본자료 Url](http://npp.jiniworks.com/npp/join/output.do?mode=view&articleNo=9054&article.offset=0&articleLimit=10)
+  - [github에 백업한 원본자료](data/origin/)
+- 변환
+  - [데이터화한 xls](data/converted_variable.xlsx) 
+  - [json](data/converted_variable.json)
+  - [csv](data/converted_variable.csv)
 
 ### 참고 사항
 
@@ -35,9 +33,9 @@
 
 ## 차후 목표
 
-[ ] 설문지 다시 읽어볼 겸 xls 검수해보기
-[x] xls를 json 형식으로 변경
+- [ ] 설문지 다시 읽어볼 겸 xls 검수해보기
+- [x] xls를 json 형식으로 변경
   - csv도 만들어둠
-[ ] 기존 1,2,3,4차 데이터를 json 형식으로 변경
-[ ] 어떻게 시각화해서 볼지 고민이란걸 해본다.
+- [ ] 기존 1,2,3,4차 데이터를 json 형식으로 변경
+- [ ] 어떻게 시각화해서 볼지 고민이란걸 해본다.
   - 아무 생각이 안나니까 일단 전체 다 볼 수 있는걸 만들어본다거나...
