@@ -1,0 +1,1 @@
+python pdf2txt.py -o output.txt ..\data\origin\자료이용지침서_신고리_56호기_공론화위원회.pdf
