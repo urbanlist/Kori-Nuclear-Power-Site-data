@@ -23,7 +23,8 @@
 - 원본
   - [xlsx](data/origin/)
 - 변환
-  - 변환 예정
+  - [csv](data/converted_rawdata.csv)
+    - 1,2,3,4차 데이터 통합본
 
 ## 변환된 데이터 읽기
 
