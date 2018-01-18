@@ -25,7 +25,7 @@
 - 변환
   - [1,2,3,4차 데이터 통합본 csv](data/converted_rawdata_1234st_about_total_user.csv)
   - [1,2,3,4차 모두 참가한 사람들 데이터 csv](data/converted_rawdata_1234st_about_user.csv)
-  - [3,4차 모두데이터 csv](data/converted_rawdata_1234st.csv)
+  - [3,4차 데이터 csv](data/converted_rawdata_34st.csv)
 
 ## 변수명 meta 데이터 읽기
 
