@@ -27,7 +27,7 @@
   - [1,2,3,4차 모두 참가한 사람들 데이터 csv](data/converted_rawdata_1234st_about_user.csv)
   - [3,4차 모두데이터 csv](data/converted_rawdata_1234st.csv)
 
-## 변환된 데이터 읽기
+## 변수명 meta 데이터 읽기
 
 - PID: 설문조사에 참여한 사람의 익명화된 ID (개인식별번호)
 - var_id: 질문지 변수 (key)값
