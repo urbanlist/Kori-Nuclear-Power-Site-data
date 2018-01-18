@@ -23,8 +23,9 @@
 - 원본
   - [xlsx](data/origin/)
 - 변환
-  - [csv](data/converted_rawdata.csv)
-    - 1,2,3,4차 데이터 통합본
+  - [1,2,3,4차 데이터 통합본 csv](data/converted_rawdata_1234st_about_total_user.csv)
+  - [1,2,3,4차 모두 참가한 사람들 데이터 csv](data/converted_rawdata_1234st_about_user.csv)
+  - [3,4차 모두데이터 csv](data/converted_rawdata_1234st.csv)
 
 ## 변환된 데이터 읽기
 
